@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="408345fa-cc61-4ed9-9546-ffb54171685d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606642283395</updated>
       <workItem from="1606642287151" duration="2275000" />
+      <workItem from="1606836940912" duration="355000" />
     </task>
     <servers />
   </component>
@@ -79,5 +78,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
